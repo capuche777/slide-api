@@ -1,0 +1,14 @@
+.contenedor-slide {
+    width: 640;
+}
+
+.slide {
+    display: none;
+}
+.active {
+    display: block;
+}
+
+.boton-anterior {
+    display: none;
+}
